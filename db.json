@@ -10,7 +10,7 @@
         "/assets/img/havic1.png",
         "/assets/img/havic2.png",
         "/assets/img/havic3.png",
-        "/assets/img/havic4.png",
+        "/assets/img/havic4.png"
       ],
       "rating": { "rate": 4, "count": 150 }
     },
@@ -18,13 +18,13 @@
       "id": 2,
       "title": "IPS LCD Gaming Monitor",
       "price": 370,
-      "description": "Rapid IPS Panel – Provides 1ms GTG fast response time, optimizes screen colors and brightness 180Hz Refresh Rate – Respond faster with smoother frames. 1ms Response Time – Eliminate screen tearing and choppy frame rates.",
+      "description": "Rapid IPS Panel Provides 1ms GTG fast response time, optimizes screen colors and brightness 180Hz Refresh Rate - Respond faster with smoother frames. 1ms Response Time Eliminate screen tearing and choppy frame rates.",
       "category": "Gaming",
       "image": [
         "/assets/img/ips-lcd.png",
         "/assets/img/ips-lcd.png",
         "/assets/img/ips-lcd.png",
-        "/assets/img/ips-lcd.png",
+        "/assets/img/ips-lcd.png"
       ],
       "rating": { "rate": 4.9, "count": 65 }
     },
@@ -38,7 +38,7 @@
         "/assets/img/joystick.png",
         "/assets/img/joystick.png",
         "/assets/img/joystick.png",
-        "/assets/img/joystick.png",
+        "/assets/img/joystick.png"
       ],
       "rating": { "rate": 4.7, "count": 214 }
     },
@@ -52,7 +52,7 @@
         "/assets/img/jacket.png",
         "/assets/img/jacket.png",
         "/assets/img/jacket.png",
-        "/assets/img/jacket.png",
+        "/assets/img/jacket.png"
       ],
       "rating": { "rate": 4.3, "count": 85 }
     }
